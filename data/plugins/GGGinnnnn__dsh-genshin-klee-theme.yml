@@ -1,0 +1,5 @@
+url: https://github.com/GGGinnnnn/dsh-genshin-klee-theme
+name: GGGinnnnn/dsh-genshin-klee-theme
+category: theme
+description:
+  en: 'Klee theme for the DSH Web interface: switches backgrounds by window aspect ratio, replaces the hero brand icon and send button icon, and registers a palette derived from the background images as a selectable theme.You can also see Klee spinning.'
